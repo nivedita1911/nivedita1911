@@ -19,7 +19,8 @@ Our flagship development, the **Buddhi Multi-Modal Cognitive Interface** (Indian
 * **Priority Date Locked:** 14 August 2026
 * **Complete Specification (CAP) Filed:** 12 September 2026
 * **Status:** Patent Pending (Expedited Examination and Fast-Track Early Publication tracks active at the Indian Patent Office).
-* **DPIIT Status:** Recognized Deep-Tech Category Startup under the Startup India Initiative.
+* **DPIIT Status: Recognized Startup under the Startup India Initiative (Deep-Tech Category Validation active) CERTIFICATE NO:
+    DIPP280844
 
 ---
 
