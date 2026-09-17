@@ -1,6 +1,6 @@
-# 🧠 Welcome to Nividita AI Labs
+# 🧠 Welcome to Nivedita AI Labs
 
-M/s **Nividita AI LLP** is a pioneering deep-tech research and development entity based in India. We engineer resource-constrained, multi-modal cognitive substrates designed specifically for edge robotics, automated cyber-physical systems, and green computing frameworks.
+M/s **Nivedita AI LLP** is a pioneering deep-tech research and development entity based in India. We engineer resource-constrained, multi-modal cognitive substrates designed specifically for edge robotics, automated cyber-physical systems, and green computing frameworks.
 
 ---
 
@@ -25,7 +25,7 @@ Our flagship development, the **Buddhi Multi-Modal Cognitive Interface** (Indian
 ---
 
 ## 🌐 Connect with Us
-* 🏢 **Corporate Entity:** Nividita AI LLP
+* 🏢 **Corporate Entity:** Nivedita AI LLP
 * 📍 **Location:** Hyderabad, Telangana, India
 * 💻 **Official Website:** [nivedita.ai](https://nivedita.ai)
 * 📬 **Contact:** contact@nivedita.ai
